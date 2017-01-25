@@ -1,0 +1,2 @@
+#gitverkefni
+#Git verkefni
