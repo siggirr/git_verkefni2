@@ -39,3 +39,6 @@
 
 #5.	Hverjir eru helstu kostir við að nota GIT?
 * Það er mjög hentugt t.d. að vinna í hóp til að deila hugmyndum og breytingum með öðrum notendum.
+
+#6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+* Ég tel að maður eigi að gera commit alltaf þegar maður er búinn að breytta kóðanum og er sáttur við þær breyttingar sem maður hefur framhvæmt.
