@@ -54,3 +54,8 @@
 #9. Hver fann upp GIT? 
 * Linus Torwaldsson er persónan sem fann upp á Git eða "Git-hub".
 
+#10. Hvar er GIT helst notað?
+* Simply put, Git is a source code management system. Git also allows a team of people to work together, all using the same files. And it helps the team cope with the confusion that tends to happen when multiple people are editing the same files.
+
+Höfundur:
+Sigurður Róbert Rúnarsson.
