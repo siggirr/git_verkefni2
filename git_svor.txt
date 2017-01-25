@@ -25,3 +25,11 @@
 	*	View all the merge conflicts.
 *	git checkout 
 	*	Skipta um branch.
+
+#3. Hver er munurinn á eftirfarandi git skipunum:
+*	a) git diff 		    
+	* Sýnir það sem var merge-að
+*	b) git diff --staged        
+	* Til að sjá hvað það var breytt sem hefur verið stage-að
+*	c) git diff commit1 commit2 
+	* Sýnir munnin á tveimur "committum"
