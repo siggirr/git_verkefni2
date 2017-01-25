@@ -33,3 +33,6 @@
 	* Til að sjá hvað það var breytt sem hefur verið stage-að
 *	c) git diff commit1 commit2 
 	* Sýnir munnin á tveimur "committum"
+
+#4. Hvað er útgáfustýring (e.version control)? 
+* Version control is a software that allows you to track the changes you make to your code, as well as being able to easily backtrack these changes, share your development efforts and more.
